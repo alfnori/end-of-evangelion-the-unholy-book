@@ -14,7 +14,6 @@ theme:
     - navigation.top
     - toc.follow
     - search.suggest
-    - content.action.edit
 
 markdown_extensions:
   - admonition
