@@ -1,0 +1,36 @@
+site_name: "The End of Evangelion — The Unholy Book"
+site_description: "Não é um evangelho religioso. Mas um contra-evangelho ao medo institucionalizado!"
+site_url: "https://SEUUSUARIO.github.io/end-of-evangelion-the-unholy-book/"
+repo_url: "https://github.com/SEUUSUARIO/end-of-evangelion-the-unholy-book"
+repo_name: "end-of-evangelion-the-unholy-book"
+
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - content.action.edit
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - footnotes
+  - attr_list
+
+nav:
+  - Início: index.md
+  - Livro:
+      - Prólogo: 00-prologo.md
+      - O Evangelho do Medo: 01-o-evangelho-do-medo.md
+      - Instrumentalidade: 02-instrumentalidade.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: "https://github.com/SEUUSUARIO/end-of-evangelion-the-unholy-book"
