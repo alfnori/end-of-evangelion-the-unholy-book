@@ -26,3 +26,6 @@ Não contém material oficial reproduzido (imagens, trechos extensos ou mídia).
 
 > Se você sentir desconforto: ótimo.  
 > Pergunte: *o que em mim foi treinado para obedecer?*
+
+## Buy me a fuel?
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V31UOH22)
