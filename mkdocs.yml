@@ -1,7 +1,7 @@
 site_name: "The End of Evangelion — The Unholy Book"
 site_description: "Não é um evangelho religioso. Mas um contra-evangelho ao medo institucionalizado!"
-site_url: "https://SEUUSUARIO.github.io/end-of-evangelion-the-unholy-book/"
-repo_url: "https://github.com/SEUUSUARIO/end-of-evangelion-the-unholy-book"
+site_url: "https://alfnori.github.io/end-of-evangelion-the-unholy-book/"
+repo_url: "https://github.com/alfnori/end-of-evangelion-the-unholy-book"
 repo_name: "end-of-evangelion-the-unholy-book"
 
 theme:
@@ -33,4 +33,4 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: "https://github.com/SEUUSUARIO/end-of-evangelion-the-unholy-book"
+      link: "https://github.com/alfnori/end-of-evangelion-the-unholy-book"
