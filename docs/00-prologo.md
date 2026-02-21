@@ -29,3 +29,7 @@ Esse é o novo sacramento.
 ## A heresia básica
 A heresia não é gritar.
 É **pensar** sem pedir permissão.
+
+---
+
+[← Voltar ao início](index.md)

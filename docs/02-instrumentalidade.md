@@ -27,3 +27,7 @@ Escreva duas frases:
 
 Se você não consegue escrever, é sinal:  
 o medo já está governando a sua linguagem.
+
+---
+
+[← Voltar ao início](index.md)

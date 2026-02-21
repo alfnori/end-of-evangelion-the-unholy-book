@@ -30,3 +30,7 @@ Escolha 1 micro-ato hoje:
 3) registre (em texto) onde você está obedecendo por ansiedade
 
 Sem micro-ato, é só estética.
+
+---
+
+[← Voltar ao início](index.md)

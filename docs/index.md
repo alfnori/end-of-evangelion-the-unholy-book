@@ -1,5 +1,7 @@
 # The End of Evangelion — The Unholy Book
 
+<div style="min-height: 360px; border-radius: 14px; margin: 1rem 0 1.5rem; background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.55)), url('assets/images/cover.png') center center / cover no-repeat;"></div>
+
 **Não é um evangelho religioso.**  
 É um **contra-evangelho ao medo institucionalizado**.
 
@@ -12,9 +14,9 @@ Ele tenta **ativar** algo.
 Você pode ler em ordem, como liturgia.  
 Ou pular para a ferida que já está aberta.
 
-- **Prólogo** — o evangelho atual (segurança, performance, obediência).
-- **O Evangelho do Medo** — como o medo vira regra, e regra vira altar.
-- **Instrumentalidade** — a promessa da dissolução: sem dor, sem diferença, sem você.
+- [**Prólogo**](00-prologo.md) — o evangelho atual (segurança, performance, obediência).
+- [**O Evangelho do Medo**](01-o-evangelho-do-medo.md) — como o medo vira regra, e regra vira altar.
+- [**Instrumentalidade**](02-instrumentalidade.md) — a promessa da dissolução: sem dor, sem diferença, sem você.
 
 ---
 
